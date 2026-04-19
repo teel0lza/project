@@ -38,11 +38,9 @@ cmdpython -m venv venv
 cmd# Windows
 venv\Scripts\activate
 
-# Mac / Linux
 source venv/bin/activate
 
 เมื่อ activate สำเร็จจะเห็น (venv) ข้างหน้า prompt
-
 
 4. ติดตั้ง Package ทั้งหมด
 cmdpip install django
@@ -55,7 +53,6 @@ cmdpip list
 cmd# Windows
 copy .env.example .env
 
-# Mac / Linux
 cp .env.example .env
 เปิดไฟล์ .env แล้วแก้ไข:
 envDEBUG=True
