@@ -114,3 +114,6 @@ project/
 ├── db.sqlite3               # ฐานข้อมูล SQLite
 ├── manage.py
 └── requirements.txt
+
+
+https://drive.google.com/drive/folders/1pxpjingEhOHhMG_6QrMyE8HhMXDequTn?usp=sharing #(link ส่ง อ.จีระวรรณ)
